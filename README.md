@@ -16,4 +16,6 @@ bps-export-scraper/
 │
 ├── main.py                # Main web scraping script
 ├── requirements.txt       # Project dependencies
+├── .gitignore             # Folder for Ignored file
+├── LICENSE                # Project License 
 └── README.md              # Project documentation
